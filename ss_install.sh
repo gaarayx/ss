@@ -1,6 +1,6 @@
 #!/bin/sh
 
-p=$1
+ip=$1
 password=$2
 
 # install shadowsocks by pip
