@@ -7,6 +7,7 @@ password=$2
 apt-get update
 apt-get install python-pip
 apt-get install python-setuptools
+pip install wheel
 pip install shadowsocks
 
 # create config file
